@@ -33,6 +33,14 @@ class EdinsonMendoza:
 - Construyendo productos **SaaS** potenciados con **inteligencia artificial**
 - Creando contenido tech en **YouTube** y **TikTok**
 
+#### What I enjoy
+
+- Arquitecturas **serverless** y soluciones en la nube
+- **Ubuntu Linux** como mi entorno principal de desarrollo
+- Experimentar y montar **modelos de IA en local**
+- **Automatizar** todo lo que se pueda automatizar
+- Resolver **problemas reales** con c&oacute;digo
+
 ---
 
 ### Tech Stack
@@ -128,12 +136,6 @@ class EdinsonMendoza:
 ---
 
 ### GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emmendoza2794&theme=flat&no-frame=true&column=7&margin-w=10" width="95%" alt="trophies" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=emmendoza2794&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=333333&dates=888888" height="200" alt="streak" />
