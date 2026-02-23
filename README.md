@@ -1,124 +1,173 @@
 <div align="center">
-  <img height="300" src="https://pbs.twimg.com/profile_banners/335581101/1713756152/1500x500"  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hola%2C+soy+Edinson+Mendoza+%F0%9F%91%8B;Software+Engineer+%7C+AI+Specialist)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/edinsonmendoza/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.youtube.com/@emmendoza2794" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://twitter.com/emmendoza2794" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://medium.com/@emmendoza2794" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
 </div>
 
-###
+---
+
+### `> whoami`
+
+Ingeniero de sistemas apasionado por la programaci&oacute;n y especialista en inteligencia artificial. Siempre escribiendo c&oacute;digo, estudiando y explorando nuevas tecnolog&iacute;as. Este mundo es tan grande que nunca dejamos de aprender.
+
+```python
+class EdinsonMendoza:
+    role      = "Software Engineer & AI Specialist"
+    languages = ["Python", "JavaScript", "Go", "PHP"]
+    cloud     = ["AWS", "Docker", "Cloudflare"]
+    ai_tools  = ["Claude Code", "Cursor CLI", "Gemini CLI"]
+    interests = ["Machine Learning", "Backend", "Cloud Architecture"]
+    motto     = "El codigo es poesia que las maquinas entienden"
+
+    def daily_routine(self):
+        while self.is_awake:
+            self.learn()
+            self.code()
+            self.deploy()
+```
+
+---
+
+### Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/edinsonmendoza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@emmendoza2794" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/emmendoza2794" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://medium.com/@emmendoza2794" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
+
+<table>
+<tr><td align="center" width="50%">
+
+**`Languages`**
+
+<img src="https://skillicons.dev/icons?i=python,js,go,php" alt="languages" />
+
+</td><td align="center" width="50%">
+
+**`Backend`**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="backend" />
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="48" alt="codeigniter" />
+
+</td></tr>
+<tr><td align="center">
+
+**`Frontend`**
+
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,tailwind" alt="frontend" />
+
+</td><td align="center">
+
+**`AI & Data Science`**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="anaconda" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="opencv" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="jupyter" />
+
+</td></tr>
+<tr><td align="center">
+
+**`Databases`**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" alt="databases" />
+
+</td><td align="center">
+
+**`Cloud & DevOps`**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,cloudflare,kafka,bash,linux" alt="cloud" />
+
+</td></tr>
+<tr><td align="center" colspan="2">
+
+**`Tools & Platforms`**
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,ai,ps" alt="tools" />
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira" />
+&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="48" alt="ubuntu" />
+&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="48" alt="chrome extensions" />
+&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
+&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/wordpress/21759B" height="48" alt="wordpress" />
+&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/shopify/7AB55C" height="48" alt="shopify" />
+
+</td></tr>
+</table>
+
 </div>
 
-###
+---
 
-<h1 align="center">Bienvenido a mi perfil  👋</h1>
-
-###
-
-<h3 align="left">Software Engineer 🧑‍💻 | artificial intelligence specialist 🤖 | Python | Javascript | AWS | Siempre listo para nuevos desafíos 🚀</h3>
-
-###
-
-<p align="left">Ingeniero de sistemas, enamorado de la programación especialista en inteligencia artificial, me gusta estar todo el tiempo escribiendo código, estudiando, profundizando y descubriendo nuevas herramientas, framewokrs y tecnologías, porque soy consciente de que este mundo de la programación es tan grande que no dejaremos de aprender cosas nuevas todos los días.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### AI-Powered Workflow
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=emmendoza2794&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+> *"No solo escribo codigo, lo co-creo con inteligencia artificial"*
+
+<br/>
+
+<img src="https://img.shields.io/badge/Claude_Code-6C63FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Cursor_CLI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor CLI" />
+<img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini CLI" />
+
 </div>
 
-###
+---
+
+### GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/emmendoza2794">
+    <img src="https://github-readme-stats.vercel.app/api?username=emmendoza2794&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" height="170" alt="stats" />
+  </a>
+  <a href="https://github.com/emmendoza2794">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmendoza2794&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="170" alt="top langs" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=emmendoza2794&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="200" alt="streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmendoza2794&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="95%" alt="activity graph" />
+</div>
+
+---
+
+<div align="center">
+
+### Snake eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emmendoza2794/emmendoza2794/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emmendoza2794/emmendoza2794/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/emmendoza2794/emmendoza2794/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emmendoza2794&style=for-the-badge&color=6C63FF" alt="profile views" />
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" alt="footer" />
+</div>
