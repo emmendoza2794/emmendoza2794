@@ -1,8 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Edinson%20Mendoza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Specialist&descSize=18&descAlignY=55" width="100%" alt="header" />
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hola%2C+soy+Edinson+Mendoza+%F0%9F%91%8B;Software+Engineer+%7C+AI+Specialist)](https://git.io/typing-svg)
-
-<br/>
 
 <a href="https://www.linkedin.com/in/edinsonmendoza/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -10,11 +8,8 @@
 <a href="https://www.youtube.com/@emmendoza2794" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-<a href="https://twitter.com/emmendoza2794" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://medium.com/@emmendoza2794" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+<a href="https://www.tiktok.com/@edicoder27" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
 
 </div>
@@ -23,23 +18,20 @@
 
 ### `> whoami`
 
-Ingeniero de sistemas apasionado por la programaci&oacute;n y especialista en inteligencia artificial. Siempre escribiendo c&oacute;digo, estudiando y explorando nuevas tecnolog&iacute;as. Este mundo es tan grande que nunca dejamos de aprender.
-
 ```python
 class EdinsonMendoza:
     role      = "Software Engineer & AI Specialist"
     languages = ["Python", "JavaScript", "Go", "PHP"]
-    cloud     = ["AWS", "Docker", "Cloudflare"]
     ai_tools  = ["Claude Code", "Cursor CLI", "Gemini CLI"]
-    interests = ["Machine Learning", "Backend", "Cloud Architecture"]
     motto     = "El codigo es poesia que las maquinas entienden"
-
-    def daily_routine(self):
-        while self.is_awake:
-            self.learn()
-            self.code()
-            self.deploy()
 ```
+
+> Ingeniero de sistemas apasionado por la programaci&oacute;n y especialista en inteligencia artificial. Siempre escribiendo c&oacute;digo, estudiando y explorando nuevas tecnolog&iacute;as.
+
+#### Currently working on
+
+- Construyendo productos **SaaS** potenciados con **inteligencia artificial**
+- Creando contenido tech en **YouTube** y **TikTok**
 
 ---
 
@@ -89,17 +81,15 @@ class EdinsonMendoza:
 
 **`Cloud & DevOps`**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,cloudflare,kafka,bash,linux" alt="cloud" />
+<img src="https://skillicons.dev/icons?i=aws,docker,github,cloudflare,bash,linux" alt="cloud" />
 
 </td></tr>
 <tr><td align="center" colspan="2">
 
 **`Tools & Platforms`**
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,ai,ps" alt="tools" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman" alt="tools" />
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira" />
-&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="48" alt="ubuntu" />
-&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="48" alt="chrome extensions" />
 &nbsp;&nbsp;<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
 &nbsp;&nbsp;<img src="https://cdn.simpleicons.org/wordpress/21759B" height="48" alt="wordpress" />
 &nbsp;&nbsp;<img src="https://cdn.simpleicons.org/shopify/7AB55C" height="48" alt="shopify" />
@@ -108,6 +98,16 @@ class EdinsonMendoza:
 </table>
 
 </div>
+
+---
+
+### Proyectos Personales
+
+- **MaluSoft** — Empresa de desarrollo de software a medida, aplicaciones web y m&oacute;viles personalizadas. https://malusoft.co/
+- **Docent IA** — Generador de ex&aacute;menes con inteligencia artificial para educadores. https://docent.iatools.net/landing
+- **Cash Control** — Aplicaci&oacute;n de gesti&oacute;n financiera y control de flujo de caja. https://cashcontrol.malusoft.co/landing
+- **TextTools** — Utilidades de texto gratuitas: contador de caracteres, comparador y m&aacute;s. https://text.userstools.app/
+- **JSON-TO** — Formateador, validador y convertidor de JSON a m&uacute;ltiples lenguajes y formatos. https://json-to.com/
 
 ---
 
@@ -130,44 +130,25 @@ class EdinsonMendoza:
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/emmendoza2794">
-    <img src="https://github-readme-stats.vercel.app/api?username=emmendoza2794&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" height="170" alt="stats" />
-  </a>
-  <a href="https://github.com/emmendoza2794">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmendoza2794&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="170" alt="top langs" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=emmendoza2794&theme=flat&no-frame=true&column=7&margin-w=10" width="95%" alt="trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=emmendoza2794&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="200" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=emmendoza2794&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=333333&dates=888888" height="200" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmendoza2794&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="95%" alt="activity graph" />
-</div>
-
----
-
-<div align="center">
-
-### Snake eating my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emmendoza2794/emmendoza2794/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emmendoza2794/emmendoza2794/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/emmendoza2794/emmendoza2794/output/github-snake-dark.svg" />
-</picture>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmendoza2794&theme=minimal&hide_border=true&color=6C63FF&line=6C63FF&point=333333" width="95%" alt="activity graph" />
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=emmendoza2794&style=for-the-badge&color=6C63FF" alt="profile views" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" alt="footer" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="footer" />
